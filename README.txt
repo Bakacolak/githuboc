@@ -7,4 +7,4 @@ de lui meme.
 
 Merci de contriber, on part de zéro sa va pas etre evident :))
 
-Tout fonctionne bien.
+Tout fonctionne impécablement.
